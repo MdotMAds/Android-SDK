@@ -1,4 +1,3 @@
-# Android-SDK
 MdotM Android SDK with Sample Application
 =============================
 The MdotM Android SDK is mobile advertising SDK for android. The SDK enables mobile application developer to render video and image ads.
