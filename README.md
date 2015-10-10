@@ -19,4 +19,4 @@ Check out our [wiki](http://docs.mdotm.com/index.php/MdotM_Android_SDK) for docu
 
 Suggesting improvements
 =======================
-To file bugs, make feature requests, or to suggest other improvements, please use [github's issue tracker](https://github.com/sourabhniyogi/mdotmandroidsampleapp/issues).
+To file bugs, make feature requests, or to suggest other improvements, please use [github's issue tracker](https://github.com/MdotMAds/Android-SDK/issues).
