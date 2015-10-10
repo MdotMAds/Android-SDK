@@ -4,9 +4,6 @@ The MdotM Android SDK is mobile advertising SDK for android. The SDK enables mob
 
 This repository contains the source code of samples for loading and rendering MdotM Ads and Sdk.
 
-
-Samples
-=======
 MdotM
 -----
 To get app keys [Sign up](http://platform.mdotm.com/page/register/publisher) to MdotM website and create your [appkey](http://platform.mdotm.com/account/sites)
