@@ -23,7 +23,7 @@ This repository contains the Android 3.6 SDK and source code of a sample applica
 - Major: VAST Video Duration and Close Button Improvements
 
 ## Documentation
-Check out our [wiki](http://docs.mdotm.com/index.php/MdotM_Android_SDK) for documentation on using the SDK.
+Check out our [wiki](https://github.com/MdotMAds/Android-SDK/wiki) for documentation on using the SDK.
 
 ## Suggesting improvements
 To file bugs, make feature requests, or to suggest other improvements, please email sdksupport@mdotm.com
