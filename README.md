@@ -13,7 +13,7 @@ This repository contains the Android 3.6 SDK and source code of a sample applica
 
 ### Android SDK 3.5: August 2015
 - Major: Added Support for Rewarded Video, Eliminated Banner + Framed Ads Support
-- Minor: iOS 9 SSL Suppport
+- Minor: SSL Support 
 
 ### Android SDK 3.4: May 2015
 - Major: VAST 3.0 Companion Support
