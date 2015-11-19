@@ -6,6 +6,10 @@ This repository contains the Android 3.6 SDK and source code of a sample applica
 
 ## Release Notes
 
+### Android SDK 3.6.1: November 2015
+- Major: Added Support for rendering array of Native Ads.
+- Minor: Circular counter display for Rewarded Video
+
 ### Android SDK 3.6: October 2015
 - Major: Added Support for Native Ads.
 - Minor: intepretation of VAST Icons (AdChoices and Ads by MdotM)
