@@ -6,6 +6,10 @@ This repository contains the Android 3.6.2 SDK and source code of a sample appli
 
 ## Release Notes
 
+### Android SDK 3.6.3: December 2015
+- Major: Added required storage permission.
+- Minor: mraid bug fixes, legacy webview issue fix
+
 ### Android SDK 3.6.2: December 2015
 - Major: Added Support for Mraid 1.0.
 - Minor: Beautified Circular counter display for Rewarded Video
