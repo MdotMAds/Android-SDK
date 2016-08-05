@@ -6,7 +6,7 @@ This repository contains the Android 3.6.2 SDK and source code of a sample appli
 
 ## Release Notes
 
-### Android SDK 3.6.3: December 2015
+### Android SDK 3.6.3: August 2016
 - Major: Added required storage permission.
 - Minor: mraid bug fixes, legacy webview issue fix
 
