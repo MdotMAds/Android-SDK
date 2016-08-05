@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MdotM-Android-SDK-3.6.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/MdotM-Android-SDK-3.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

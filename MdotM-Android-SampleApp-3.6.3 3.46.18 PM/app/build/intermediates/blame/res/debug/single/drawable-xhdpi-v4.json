@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/close_button_60x60.png",
+        "source": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/src/main/res/drawable-xhdpi/close_button_60x60.png"
+    },
+    {
+        "merged": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/sampleframe.png",
+        "source": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/src/main/res/drawable-xhdpi/sampleframe.png"
+    },
+    {
+        "merged": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/mdotm_new_logo.png",
+        "source": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/src/main/res/drawable-xhdpi/mdotm_new_logo.png"
+    },
+    {
+        "merged": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

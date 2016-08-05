@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/techjini/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7761059153788c146311f1b118c1e74a69fd2435.jar" />
+    </item>
+    <item
+        jar="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_6836b155834c1b7282f9fbbb1afe4cdfec3c4730.jar" />
+    </item>
+    <item
+        jar="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_a51ac7c5c89d50595768f892adee2868533be35e.jar" />
+    </item>
+    <item
+        jar="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_04f228b375615a48d711bccac00cb95e40edf189.jar" />
+    </item>
+    <item
+        jar="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/libs/MdotM-Android-SDK-3.6.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4d574d30dccd65a2d68cbc076453135d79edaa9">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/MdotM-Android-SDK-3.6.3_803eceb213f175f940b7ff174875aa73b6c4bb0c.jar" />
+    </item>
+    <item
+        jar="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/techjini/Documents/androidmdotmsamplegitcode/Android-SDK/MdotM-Android-SampleApp-3.6.3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_2058c261efbc23c59953ec53cbb3360e72fcfcb4.jar" />
+    </item>
+
+</items>
